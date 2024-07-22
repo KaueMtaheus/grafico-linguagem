@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
             datasets: [{
                 label: 'Linguagens de Programação mais Ultilizadas',
                 data: [],
-                backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                borderColor: 'rgba(75, 192, 192, 1)',
+                backgroundColor: 'aliceblue',
+                borderColor: 'black',
                 borderWidth: 1
             }]
         },

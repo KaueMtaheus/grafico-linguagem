@@ -6,12 +6,16 @@ body {
   }
   
   .container {
-    width: 80%;
+    width: 100vh;
     margin: 0 auto;
+
   }
   
   h1 {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
     font-size: 2rem;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
   
