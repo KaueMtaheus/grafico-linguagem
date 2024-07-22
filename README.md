@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como uma forma de demonstrar:
 ## Instruções de Uso
 1. **Clone o Repositório**
 ```bash
-git clone <URL_DO_REPOSITÓRIO>
+git clone <https://github.com/KaueMtaheus/grafico-linguagem.git>
 ```
 3. **Abra o Arquivo index.html**
    
